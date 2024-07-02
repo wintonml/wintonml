@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wintonml
-- 👀 I’m interested in AI/ML, and programming embedded systems. 
+- 👀 I’m interested in tech, whether it is legacy or new! 
 - 🌱 I’m currently learning about LLMs
 
 <!---
