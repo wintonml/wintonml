@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wintonml
 - 👀 I’m interested in tech, whether it is legacy or new! 
-- 🌱 I’m currently learning about LLMs
+- 🌱 I’m currently learning JavaScript
 
 <!---
 wintonml/wintonml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
